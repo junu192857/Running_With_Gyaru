@@ -6,3 +6,7 @@ dist/
 .env
 .env.local
 coverage/
+
+# expo prebuild 생성물 (원본은 app.json)
+/ios/
+/android/
