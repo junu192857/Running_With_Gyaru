@@ -3,3 +3,10 @@ node_modules/
 dist/
 *.log
 .DS_Store
+.env
+.env.local
+coverage/
+
+# expo prebuild 생성물 (원본은 app.json)
+/ios/
+/android/
